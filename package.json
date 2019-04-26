@@ -1,6 +1,5 @@
 {
   "_from": "github:Squar89/react-datepicker",
-  "_id": "react-datepicker@2.3.0",
   "_inBundle": false,
   "_integrity": "",
   "_location": "/react-datepicker",
@@ -21,9 +20,7 @@
   "_resolved": "github:Squar89/react-datepicker#9371e4f3288f22588bf47c29f06559247675b589",
   "_spec": "react-datepicker@github:Squar89/react-datepicker",
   "_where": "/Users/squar/Desktop/housely/services/web/src",
-  "author": {
-    "name": "HackerOne"
-  },
+  "author": "HackerOne",
   "bugs": {
     "url": "https://github.com/Hacker0x01/react-datepicker/issues"
   },
@@ -161,5 +158,8 @@
   },
   "style": "dist/react-datepicker.min.css",
   "unpkg": "dist/react-datepicker.min.js",
-  "version": "2.3.0"
+  "version": "2.3.0",
+  "directories": {
+    "lib": "lib"
+  }
 }
